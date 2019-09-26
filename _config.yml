@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Valentina Carraro"
   avatar           : "profile.png"
-  bio              : "geography, critical Cartography, urban Studies; postdoc researcher at <a href="http://www.cigiden.cl/en/home/">CIGIDEN]</a>
+  bio              : "geography, critical cartography, urban ctudies; postdoc researcher at <a href="http://www.cigiden.cl/en/home/">CIGIDEN]</a>
   location         : "Santiago, Chile"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
