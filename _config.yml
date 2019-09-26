@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Valentina Carraro"
 title_separator          : "-"
 name                     : &name "Valentina Carraro"
-description              : &description "personal description"
+description              : &description "CIGIDEN Postdoc Fellow"
 url                      : ""
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Valentina Carraro"
   avatar           : "profile.png"
-  bio              : "CIGIDEN Postdoc Fellow. Geography, Critical Cartography, Urban Studies"
+  bio              : "Geography, Critical Cartography, Urban Studies"
   location         : "Santiago, Chile"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
