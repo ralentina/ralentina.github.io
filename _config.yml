@@ -11,7 +11,7 @@ title                    : "Valentina Carraro"
 title_separator          : "-"
 name                     : &name "Valentina Carraro"
 description              : &description "CIGIDEN Postdoc Fellow"
-url                      : ""
+url                      : "http://vcarraro.com/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Valentina Carraro"
   avatar           : "profile.png"
-  bio              : "geography, critical Cartography, urban Studies; postdoc researcher at [CIGIDEN](http://www.cigiden.cl/en/home/)"
+  bio              : "geography, critical Cartography, urban Studies; postdoc researcher at <a href="http://www.cigiden.cl/en/home/">CIGIDEN]</a>
   location         : "Santiago, Chile"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
