@@ -9,19 +9,19 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-<h3 > Peer-Reviewed </h3>
-<ul style="list-style: none;">
-	<li>
-	Carraro, V. and Wissink, B. (2018) [‘Participation and marginality on the geoweb: The politics of non-mapping on OpenStreetMap Jerusalem’](https://doi.org/10.1016/j.geoforum.2018.02.001), <i>Geoforum</i>, vol. 90, pp. 64–73. DOI:10.1016/j.geoforum.2018.02.001.
-	<br/>
-	[postprint version](http://ralentina.github.io/files/Carraro-Wissink-2018-Participation-and-Marginality-Geoweb.pdf)
-	</li>
-  </ul>
-
-  <h3> Others </h3>
-  <ul style="list-style: none;">
-	<li>
-	Carraro, V. and Wissink, B. (2017) 'The Jerusalems on the Map’, in <i>[Our Digital Rights to the City](https://meatspacepress.org/our-digital-rights-to-the-city/)</i>, Meatspace Press.
-	</li>
-</ul>
-
+<h3> Peer-Reviewed </h3>
+[Participation and marginality on the geoweb: The politics of non-mapping on OpenStreetMap Jerusalem](http://ralentina.github.io/publications/2018-03-01-participation-marginality-geoweb.md)</br>
+<b>Carraro, V.</b> and Wissink, B. (2018)</br>
+<i>Geoforum</i>, vol. 90, pp. 64–73. DOI:10.1016/j.geoforum.2018.02.001.</br>
+[postprint version](http://ralentina.github.io/files/Carraro-Wissink-2018-Participation-and-Marginality-Geoweb.pdf)
+</br>
+<h3> Others </h3>
+[The Jerusalems on the Map](http://ralentina.github.io/publications/2017-01-01-jerusalems.md)</br>
+<b>Carraro, V.</b> and Wissink, B. (2017)</br>
+in [Our Digital Rights to the City](https://meatspacepress.org/our-digital-rights-to-the-city/), Meatspace Press.
+[published article](http://ralentina.github.io/files/meatspace-jersualems.pdf)
+</br>
+[Mapping under Occupation]((http://ralentina.github.io/publications/2015-04-01-CAN-mapping.md)
+<b>Carraro, V.</b>
+in [Community Architects Network](http://communityarchitectsnetwork.info/index.php) Newsletter, April 2015.</br>
+[published article](http://communityarchitectsnetwork.info/upload/opensources/public/file_02052015001450.pdf)
