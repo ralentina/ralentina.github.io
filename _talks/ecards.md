@@ -1,0 +1,10 @@
+---
+title: "Digital Power, Decolonising Life"
+collection: talks
+type: "Talk"
+permalink: /talks/2017-09-0q-ecards
+venue: "RGS-IBG Annual Conference, Royal Geographical Society, London"
+date: 2017-09-0q
+location: "London, UK"
+---
+Presentation (with Amany Khalifa) at the RGS-IBG Annual International Conference, in the session 'Digital Power, Decolonising Life'.
