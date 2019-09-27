@@ -8,4 +8,4 @@ date: 2016-09-02
 location: "Barcelona, Spain"
 ---
 
-Presentation at the International Conference of the Society for Social Studies of Science / EASST, in Barcelona, Spain
+Presentation at the joint conference of the [Society for Social Studies of Science](https://www.4sonline.org/) / [EASST](https://easst.net/), in Barcelona, Spain.
