@@ -9,8 +9,8 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-<h2> Peer-Reviewed </h2>
-<ul>
+<h3 > Peer-Reviewed </h3>
+<ul style="list-style: none;">
 	<li>
 	Carraro, V. and Wissink, B. (2018) ‘<a href="https://doi.org/10.1016/j.geoforum.2018.02.001">Participation and marginality on the geoweb: The politics of non-mapping on OpenStreetMap Jerusalem</a>’, <i>Geoforum</i>, vol. 90, pp. 64–73. DOI:10.1016/j.geoforum.2018.02.001.
 	<br/>
@@ -18,8 +18,8 @@ author_profile: true
 	</li>
   </ul>
 
-  <h2>Others</h2>
-  <ul>
+  <h3> Others </h3>
+  <ul style="list-style: none;">
 	<li>
 	Carraro, V. and Wissink, B. (2017) ‘<a href="https://meatspacepress.org/our-digital-rights-to-the-city/">The Jerusalems on the Map</a>’, in <i>Our Digital Rights to the City</i>, Meatspace Press.
 	</li>
