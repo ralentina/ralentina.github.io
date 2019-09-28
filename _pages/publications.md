@@ -18,7 +18,7 @@ author_profile: true
 <h2> Others </h2>
 <b>[The Jerusalems on the Map](http://ralentina.github.io/publications/2017-01-01-jerusalems.md)</b>  
 <b>Carraro, V.</b> and Wissink, B. (2017)  
-in [Our Digital Rights to the City](https://meatspacepress.org/our-digital-rights-to-the-city/), Meatspace Press.
+in [Our Digital Rights to the City](https://meatspacepress.org/our-digital-rights-to-the-city/), Meatspace Press.  
 [published article](http://ralentina.github.io/files/meatspace-jerusalems.pdf)  
 
 <b>[Mapping under Occupation](http://ralentina.github.io/publications/2015-04-01-CAN-mapping.md)</b>  
