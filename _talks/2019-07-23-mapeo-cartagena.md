@@ -8,4 +8,4 @@ date: 2018-05-03
 location: "Cartagena, Chile"
 ---
 
-Presentation (with Cristina Visconti) on our research using collective mapping in Cartagena, Chile. 
+Presentation (with [Cristina Visconti](https://www.researchgate.net/profile/Cristina_Visconti2)) on our research using collective mapping in Cartagena, Chile. 
