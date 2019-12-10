@@ -6,7 +6,7 @@ date: 2015-04-01
 venue: 'CAN Newsletter'
 excerpt: 'In an age in which most maps are produced through satellites and computer-generated algorithms,cartography is often viewed as an objective discipline, that has overcome the political biases of its past. The case of Palestine, however, serves as a powerful reminder that modern maps remain a long way from objective and often, in fact, actively contribute to perpetuating colonialist practices....'
 paperurl: '[published article](/files/CAN-mapping.pdf)'
-citation: Carraro, Valentina (2015).  &quot;Mapping under occupation &quot; Community Architect Newsletter (April)
+citation: Carraro, V. (2015).  &quot;Mapping under occupation &quot; Community Architect Newsletter (April)
 type: online publication
 
 ---
