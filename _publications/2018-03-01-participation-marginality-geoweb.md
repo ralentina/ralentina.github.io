@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-03-01-participation-marginality-geoweb
 date: 2018-03-01
 venue: 'Geoforum'
-excerpt: 'This paper contributes to the literature on participation and marginality on the geoweb by exploring the politics of non-mapping on OpenStreetMap (OSM). To this end, we reflect on our collaboration with Grassroots Jerusalem (GJ) – a Jerusalem-based Palestinian non-governmental organization (NGO) – and their engagement with OSM.'
+excerpt: 'This paper contributes to the literature on participation and marginality on the geoweb by exploring the politics of non-mapping on OpenStreetMap (OSM). To this end, we reflect on our collaboration with Grassroots Jerusalem (GJ) – a Jerusalem-based Palestinian non-governmental organization (NGO) – and their engagement with OSM...'
 paperurl: '[Post-Print Version](http://ralentina.github.io/files/Carraro-Wissink-2018-Participation-and-Marginality-Geoweb.pdf)'
 type: peer-reviewed
 
