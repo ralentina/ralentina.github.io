@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 <h2> Peer-Reviewed </h2>
-<b>[Grounding the digital: a comparison of Waze ‘avoid dangerous areas’ feature in Jerusalem, Rio de Janeiro and the US](_publications/2019-12-09-grounding-the-digital.md)</b>  
+<b>[Grounding the digital: a comparison of Waze ‘avoid dangerous areas’ feature in Jerusalem, Rio de Janeiro and the US](http://ralentina.github.io/publications/2019-12-09-grounding-the-digital.md)</b>  
 <b>Carraro, V.</b> (2019)  
 <i>Geojournal</i>, online-first: https://doi.org/10.1007/s10708-019-10117-y.  
 [postprint version](http://ralentina.github.io/files/Carraro-2019-Grounding-the-Digital.pdf) 
