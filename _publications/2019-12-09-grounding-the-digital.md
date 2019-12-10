@@ -6,7 +6,7 @@ excerpt: 'This paper presents a comparative study of the Waze avoid areas (WADA)
 date: 2019-12-09
 venue: 'GeoJournal'
 paperurl: 'http://ralentina.github.io/files/Carraro-2019-Grounding-the-Digital.pdf'
-citation: 'Carraro, V. GeoJournal (2019). https://doi.org/10.1007/s10708-019-10117-y'
+citation: 'Carraro, V. (2019). Grounding the digital: a comparison of Waze ‘avoid dangerous areas’ feature in Jerusalem, Rio de Janeiro and the US. GeoJournal. https://doi.org/10.1007/s10708-019-10117-y'
 type: peer-reviewed
 
 ---
