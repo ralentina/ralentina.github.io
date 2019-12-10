@@ -9,24 +9,8 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-<h2> Peer-Reviewed </h2>
-<b>[Grounding the digital: a comparison of Waze ‘avoid dangerous areas’ feature in Jerusalem, Rio de Janeiro and the US](/_publications/2019-12-09-grounding-the-digital.md)</b>  
-<b>Carraro, V.</b> (2019)  
-<i>Geojournal</i>, online-first: https://doi.org/10.1007/s10708-019-10117-y.  
-[postprint version](/files/Carraro-2019-Grounding-the-Digital.pdf) 
+{% include base_path %}
 
-<b>[Participation and marginality on the geoweb: The politics of non-mapping on OpenStreetMap Jerusalem](/_publications/2018-03-01-participation-marginality-geoweb.md)</b>  
-<b>Carraro, V.</b> and Wissink, B. (2018)  
-<i>Geoforum</i>, vol. 90, pp. 64–73. DOI:10.1016/j.geoforum.2018.02.001.  
-[postprint version](/files/Carraro-Wissink-2018-Participation-and-Marginality-Geoweb.pdf) 
-
-<h2> Others </h2>
-<b>[The Jerusalems on the Map](/_publications/2017-01-01-jerusalems.md)</b>  
-<b>Carraro, V.</b> and Wissink, B. (2017)  
-in [Our Digital Rights to the City](https://meatspacepress.org/our-digital-rights-to-the-city/), Meatspace Press.  
-[published article](/files/meatspace-jerusalems.pdf)  
-
-<b>[Mapping under Occupation](/_publications/2015-04-01-CAN-mapping.md)</b>  
-<b>Carraro, V.</b>  
-in [Community Architects Network](http://communityarchitectsnetwork.info/index.php) Newsletter, April 2015.  
-[published article](/files/CAN-mapping.pdf)
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
