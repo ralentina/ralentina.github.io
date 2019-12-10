@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-12-09-grounding-the-digital
 date: 2019-12-09
 venue: 'GeoJournal'
-excerpt: 'This paper presents a comparative study of the Waze avoid areas (WADA) feature in Jerusalem, Rio de Janeiro, and the US. I argue that, through comparative approaches, geographers can ‘ground’ the digital, developing situated accounts of how emerging technologies work at different sites. Taking as a starting point the controversies raised by WADA, I address the following research questions: How does the feature work in the three research sites? What political problems does it raise? What are its effects?...'
+excerpt: 'This paper presents a comparative study of the Waze avoid areas (WADA) feature in Jerusalem, Rio de Janeiro, and the US. I argue that, through comparative approaches, geographers can ‘ground’ the digital, developing situated accounts of how emerging technologies work at different sites...'
 paperurl: '[Post-Print Version](http://ralentina.github.io/files/Carraro-2019-Grounding-the-Digital.pdf)'
 type: peer-reviewed
 
