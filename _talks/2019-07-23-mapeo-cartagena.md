@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2019-07-23-mapeo-cartagena
 venue: "Hotel Playa, Cartagena"
-date: 2018-05-03
+date: 2019-07-23
 location: "Cartagena, Chile"
 ---
 
