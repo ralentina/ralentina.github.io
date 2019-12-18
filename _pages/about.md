@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc researcher at [CIGIDEN](http://www.cigiden.cl/en/home/) (Centre for Integrated Disaster Risk Management), in Santiago, Chile, where I belong to the Social Practices cluster and the [Research Line #6 -Information, communication and technologies for disaster management](https://www.cigiden.cl/en/l6-communication-and-emerging-technologies-for-disaster-risk-reduction/).
+I am a postdoc researcher at [CIGIDEN](http://www.cigiden.cl/en/home/) (Centre for Integrated Disaster Risk Management), in Santiago, Chile, where I joined the Social Practices cluster and the [Research Line #6 (Information, communication and technologies for disaster management)](https://www.cigiden.cl/en/l6-communication-and-emerging-technologies-for-disaster-risk-reduction/).
 
 My work revolves around the mapping of disaster risk and has two main strands. On the one hand, I am part on an interdisciplinary team piloting a participatory model of disaster risk management in the town of [Cartagena](https://www.google.com/maps/place/Cartagena,+Valpara%C3%ADso/@-33.538427,-71.6334441,13z/data=!3m1!4b1!4m5!3m4!1s0x966243ffd2d49c21:0xf078adc7723cce70!8m2!3d-33.5482466!4d-71.6045745). My contribution focuses on the development of mapping methodologies to facilitate the involvement of local actors, for example [environmental activists](https://www.youtube.com/watch?v=rgTzUPkVNBQ&feature=youtu.be) and youth. The second strand of my research examines how scientists conceptualise, measure and map disaster risk, with a focus on its ‘social’ components, i.e. resilience and vulnerability.
 
