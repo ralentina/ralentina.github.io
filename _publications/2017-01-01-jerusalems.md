@@ -14,4 +14,4 @@ This includes discussions surrounding security, mapping, real estate, smartphone
 
 The collection is edited by Joe Shaw and Mark Graham and its contributing authors are Jathan Sadowski, Valentina Carraro, Bart Wissink, Desiree Fields, Kurt Iveson, Taylor Shelton, Sophia Drakopoulou and Mark Purcell.
 
-Find the full pamphlet on [Meatspace Press](https://meatspacepress.org/our-digital-rights-to-the-city/).
+Find the full pamphlet on [Meatspace Press](https://meatspacepress.com/).
