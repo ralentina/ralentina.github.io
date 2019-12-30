@@ -1,10 +1,10 @@
 ---
 title: "Biodiversidad, Género y Cambio Climático: Propuestas basadas en conocimiento"
 collection: publications
-permalink: /publication/2019-12-28-biodiversidadGenero.md
+permalink: /publication/2019-12-28-biodiversidadGenero
 date: 2019-12-28
 venue: 'Iniciativa Latinoamericana y del Caribe: Biodiversidad, Género y Conocimiento'
-excerpt: 'En esta serie de policy brief, presentamos el trabajo regional integrador de tres pilares clave relacionados con la crisis ambiental que enfrentamos: cambio climático, biodiversidad y conocimiento con enfoque de genero; “La Iniciativa Latinoamericana y del Caribe: biodiversidad, género y conocimiento”, de la que forman parte más 20 instituciones académicas, centros de investigación y organizaciones interdisciplinarias, reunió la experiencia y conocimiento existente en la región para proponer, diseñar, y conectar esfuerzos que permitan avanzar y sobre todo acelerar en el desarrollo de acciones estratégicas y concretas, que vayan en beneficio de nuestras sociedades...'
+excerpt: 'En esta serie de policy brief, presentamos el trabajo regional integrador de tres pilares clave relacionados con la crisis ambiental que enfrentamos: cambio climático, biodiversidad y conocimiento con enfoque de genero; “La Iniciativa Latinoamericana y del Caribe: biodiversidad, género y conocimiento”, de la que forman parte más 20 instituciones académicas, centros de investigación y organizaciones interdisciplinarias...'
 paperurl: '[published article](https://www.capitalbiodiversidad.cl/wp-content/uploads/2019/12/biodiversidad-genero-y-cambio-climatico.pdf)'
 citation: 'Koleff, P., Figueroa, A., Saavedra, B., Rojas, C., Lehm, Z., Tironi M., et. al (2019). Biodiversidad, Género y Cambio Climático: Propuestas basadas en conocimiento. Iniciativa Latinoamericana y el Caribe. Santiago de Chile'
 type: policy brief
