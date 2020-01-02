@@ -2,6 +2,9 @@
 title: "Pharmacies in Santiago"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 date: 2020-01-02
+tags:
+  - Santiago
+  - ArcMap
 collection: portfolio
 ---
 
