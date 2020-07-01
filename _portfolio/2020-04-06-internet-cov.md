@@ -1,6 +1,7 @@
 ---
 title: "Internet Coverage"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 2 <br/>"
+date: 2020-04-06
 collection: portfolio
 ---
 
