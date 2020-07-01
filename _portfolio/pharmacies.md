@@ -5,7 +5,6 @@ tags:
   - Santiago
   - ArcMap
 collection: portfolio
-date: 01-03-2020
 ---
 
 
