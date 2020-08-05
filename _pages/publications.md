@@ -11,6 +11,19 @@ author_profile: true
 
 {% include base_path %}
 
+<h2>Peer Reviewed</h2>
+
 {% for post in site.publications reversed %}
+{% if post.type == 'peer-reviewed' %}
   {% include archive-single.html %}
+{% endif %}
 {% endfor %}
+
+<h2>Other Publications</h2>
+
+{% for post in site.publications reversed %}
+{% if post.type == 'other' %}
+  {% include archive-single.html %}
+{% endif %}
+{% endfor %}
+
