@@ -1,11 +1,10 @@
 ---
 permalink: /about/
-title: "Bio"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /bio/
 ---
 
 Since March 2019 I'm a postdoc researcher at [CIGIDEN](http://www.cigiden.cl/en/home/), an interdisciplinary disaster research centre based at Universidad Católica in Santiago de Chile. I joined the *Social Practices* cluster and the Research Line #6 [Information, communication and technologies for disaster management](https://www.cigiden.cl/en/l6-communication-and-emerging-technologies-for-disaster-risk-reduction/). My work examines how scientists conceptualise, measure and map social vulnerability to disasters, how their knowledge relates to / contrast with local knowledge, and how different ways of knowing can be integrated through innovative GIS methodologies. The research is based in [Cartagena](https://www.google.com/maps/place/Cartagena,+Valpara%C3%ADso/@-33.538427,-71.6334441,13z/data=!3m1!4b1!4m5!3m4!1s0x966243ffd2d49c21:0xf078adc7723cce70!8m2!3d-33.5482466!4d-71.6045745) and is part of a larger interdisciplinary project piloting a participatory model of disaster risk management.
