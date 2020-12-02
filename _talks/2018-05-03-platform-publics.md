@@ -1,7 +1,7 @@
 ---
 title: "Platform Publics: Tracing Issues through Map-Apps"
 collection: talks
-type: "Talk"
+type: "Conference presentation"
 permalink: /talks/2018-05-03-platform-publics
 venue: "SciencePo, Paris"
 date: 2018-05-03
