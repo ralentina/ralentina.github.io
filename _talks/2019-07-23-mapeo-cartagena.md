@@ -1,7 +1,7 @@
 ---
 title: "Contexto Local y Mapeos Participativos de Riesgo in Cartagena"
 collection: talks
-type: "Talk"
+type: "Public event"
 permalink: /talks/2019-07-23-mapeo-cartagena
 venue: "Hotel Playa, Cartagena"
 date: 2019-07-23
