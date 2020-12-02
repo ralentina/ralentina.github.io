@@ -1,7 +1,7 @@
 ---
 title: "Web-Maps between Commons and Commodities: Google Maps and OpenStreetMap Compared"
 collection: talks
-type: "Talk"
+type: "Conference presentation"
 permalink: /talks/2016-09-02-common-commodities
 venue: "4S / EASST 2016, Barcelona"
 date: 2016-09-02
