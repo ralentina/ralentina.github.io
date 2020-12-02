@@ -1,7 +1,7 @@
 ---
 title: "Cartographic Uprising: Jerusalem’s Digital Maps Between Facts and Action"
 collection: talks
-type: "Talk"
+type: "Conference presentation"
 permalink: /talks/2016-04-01-AAG-Jerusalems.md
 venue: "AAG Annual Meeting, San Francisco"
 date: 2016-04-01
