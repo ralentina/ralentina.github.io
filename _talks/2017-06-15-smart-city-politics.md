@@ -1,7 +1,7 @@
 ---
 title: "Smart City Politics"
 collection: talks
-type: "Talk"
+type: "Workshop participation"
 permalink: /talks/2017-06-15-smart-city-politics
 venue: "City University of Hong Kong, Hong Kong"
 date: 2017-06-15
