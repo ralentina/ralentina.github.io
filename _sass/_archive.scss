@@ -1,6 +1,25 @@
 /* ==========================================================================
    ARCHIVE
    ========================================================================== */
+   
+/* custom classes */
+
+.publication__venue {
+	font-weight: bold;
+	font-style: italic;
+	}
+	
+.publication__citation {
+	font-style: italic;
+	color: $info-color;
+	}
+	
+.publication__download {
+	font-weight: bold;
+	}
+	
+/* end of custom classes */
+
 
 .archive {
   margin-bottom: 2em;

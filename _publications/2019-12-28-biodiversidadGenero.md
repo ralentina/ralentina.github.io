@@ -1,11 +1,11 @@
 ---
-title: "Biodiversidad, Género y Cambio Climático: Propuestas basadas en conocimiento"
+title: "Desastres y Resiliencia desde un Enfoque de Género"
 collection: publications
 permalink: /publication/2019-12-28-biodiversidadGenero
 date: 2019-12-28
-venue: 'Iniciativa Latinoamericana y del Caribe: Biodiversidad, Género y Conocimiento'
-excerpt: 'En esta serie de policy brief, presentamos el trabajo regional integrador de tres pilares clave relacionados con la crisis ambiental que enfrentamos: cambio climático, biodiversidad y conocimiento con enfoque de genero; “La Iniciativa Latinoamericana y del Caribe: biodiversidad, género y conocimiento”, de la que forman parte más 20 instituciones académicas, centros de investigación y organizaciones interdisciplinarias...'
-paperurl: 'https://www.capitalbiodiversidad.cl/wp-content/uploads/2019/12/biodiversidad-genero-y-cambio-climatico.pdf'
+venue: 'Biodiversidad, Género y Cambio Climático: Iniciativa Latinoamericana y el Caribe: Propuestas Basadas en Conocimiento'
+excerpt: 'El cambio climático y la pérdida de biodiversidad tienen como consecuencia la multiplicación de los desastres socionaturales en la región...'
+full_text: "/files/genero_desastre.pdf"
 citation: 'Koleff, P., Figueroa, A., Saavedra, B., Rojas, C., Lehm, Z., Tironi M., et. al (2019). Biodiversidad, Género y Cambio Climático: Propuestas basadas en conocimiento. Iniciativa Latinoamericana y el Caribe. Santiago de Chile'
 type: other
 

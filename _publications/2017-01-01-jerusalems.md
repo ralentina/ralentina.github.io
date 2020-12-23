@@ -5,7 +5,7 @@ permalink: /publication/2017-01-01-jerusalems
 date: 2017-01-01
 venue: 'Our Digital Rights to the City'
 excerpt: '‘Our Digital Rights to the City’ is a small collection of articles about digital technology, data and the city.'
-paperurl: 'http://ralentina.github.io/files/meatspace-jerusalems.pdf'
+full_text: '/files/meatspace-jerusalems.pdf'
 type: other
 
 ---
@@ -14,4 +14,3 @@ This includes discussions surrounding security, mapping, real estate, smartphone
 
 The collection is edited by Joe Shaw and Mark Graham and its contributing authors are Jathan Sadowski, Valentina Carraro, Bart Wissink, Desiree Fields, Kurt Iveson, Taylor Shelton, Sophia Drakopoulou and Mark Purcell.
 
-Find the full pamphlet on [Meatspace Press](https://meatspacepress.com/).
