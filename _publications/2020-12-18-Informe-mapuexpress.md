@@ -1,10 +1,12 @@
 ---
-title: "Descolonizando la pandemia en territorio mapuche: mapeando el coronavirus en el Wallmapu"
+
 collection: publications
-permalink: /publication/2020-12-18-Informe-mapuexpress
-date: 2020-12-18
-excerpt: 'Los relatos oficiales de los desastres socionaturales, elaborados por académicos o por organismos estatales, suelen pasar por alto las diferencias entre los territorios y los grupos de la población...'
-full_text: "/files/MapeandoCoronavirus_vsmall.pdf"
 type: other
+title: "Descolonizando la pandemia en territorio mapuche: mapeando el coronavirus en el Wallmapu"
+authors: "Carraro, V., Kelly, S., Melillanca, P., Valdes-Negroni, J.M., Vargas, J.L."
+details: "CIGIDEN Report, Santiago de Chile"
+date: 2020-12-18
+external_link: "https://www.cigiden.cl/13490-2/"
+
 
 ---

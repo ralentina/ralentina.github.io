@@ -1,9 +1,10 @@
 ---
-title: "Contexto Local y Mapeos Participativos de Riesgo in Cartagena"
+
 collection: talks
 type: "Public event"
-permalink: /talks/2019-07-23-mapeo-cartagena
-venue: "Hotel Playa, Cartagena"
+event: "Conversatorio CIGIDEN"
+title: "Contexto Local y Mapeos Participativos de Riesgo in Cartagena"
+speakers: "Visconti, C., Carraro, V."
 date: 2019-07-23
 location: "Cartagena, Chile"
 ---

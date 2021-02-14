@@ -1,12 +1,12 @@
 ---
-title: "The Jerusalems on the Map"
+
 collection: publications
-permalink: /publication/2017-01-01-jerusalems
+type: other
+title: "The Jerusalems on the Map"
+authors: "Carraro, V., and Wissink, B."
 date: 2017-01-01
 venue: 'Our Digital Rights to the City'
-excerpt: '‘Our Digital Rights to the City’ is a small collection of articles about digital technology, data and the city.'
-full_text: '/files/meatspace-jerusalems.pdf'
-type: other
+external_link: 'https://meatspacepress.com/our-digital-rights-to-the-city/'
 
 ---
 ‘Our Digital Rights to the City’ is a small collection of articles about digital technology, data and the city. It covers a range of topics relating to the political and economic power of technologies that are now almost inescapable within the urban environment.

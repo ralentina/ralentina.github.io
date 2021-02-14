@@ -1,13 +1,13 @@
 ---
-title: "Desastres y Resiliencia desde un Enfoque de Género"
+
 collection: publications
-permalink: /publication/2019-12-28-biodiversidadGenero
+type: other
+title: "Desastres y Resiliencia desde un Enfoque de Género"
+authors: "Carraro, V., Casas, M., Juzam, L., Palma, K., Tironi, M."
 date: 2019-12-28
 venue: 'Biodiversidad, Género y Cambio Climático: Iniciativa Latinoamericana y el Caribe: Propuestas Basadas en Conocimiento'
-excerpt: 'El cambio climático y la pérdida de biodiversidad tienen como consecuencia la multiplicación de los desastres socionaturales en la región...'
-full_text: "/files/genero_desastre.pdf"
-citation: 'Koleff, P., Figueroa, A., Saavedra, B., Rojas, C., Lehm, Z., Tironi M., et. al (2019). Biodiversidad, Género y Cambio Climático: Propuestas basadas en conocimiento. Iniciativa Latinoamericana y el Caribe. Santiago de Chile'
-type: other
+details: 'Santiago de Chile'
+external_link: 'https://www.researchgate.net/publication/338420966_Ciencia_y_conocimiento_En_Biodiversidad_genero_y_cambio_climatico_Propuestas_basadas_en_conocimiento_Iniciativa_Latinoamericana_y_el_Caribe_Santiago_de_Chile'
 
 ---
 

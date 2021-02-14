@@ -1,12 +1,12 @@
 ---
-title: "Chile’s Establishment Have Just Discovered a Concern for Santiago’s Heritage After Years of Negligence"
+
 collection: publications
-permalink: /publication/2020-12-08-SantiagoHeritage
+title: "Chile’s Establishment Have Just Discovered a Concern for Santiago’s Heritage After Years of Negligence"
+type: other
+authors: 'Carraro, V.'
 date: 2020-12-08
 venue: 'Failed Architecture'
-excerpt: 'After protests in Santiago de Chile led to the destruction of two churches, the establishment cried “vandalism”, but their general neglect of the city’s architectural heritage suggests they’re shedding crocodile tears.'
 external_link: "https://failedarchitecture.com/chiles-establishment-have-just-discovered-a-concern-for-santiagos-heritage-after-years-of-negligence/"
-type: other
 
 ---
 

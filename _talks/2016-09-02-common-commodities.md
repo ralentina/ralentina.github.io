@@ -1,11 +1,9 @@
 ---
-title: "Web-Maps between Commons and Commodities: Google Maps and OpenStreetMap Compared"
 collection: talks
 type: "Conference presentation"
-permalink: /talks/2016-09-02-common-commodities
-venue: "4S / EASST 2016, Barcelona"
+event: "4S / EASST 2016"
+title: "Web-Maps between Commons and Commodities: Google Maps and OpenStreetMap Compared"
+speakers: "Carraro, V."
 date: 2016-09-02
 location: "Barcelona, Spain"
 ---
-
-Presentation at the joint conference of the [Society for Social Studies of Science](https://www.4sonline.org/) / [EASST](https://easst.net/), in Barcelona, Spain.

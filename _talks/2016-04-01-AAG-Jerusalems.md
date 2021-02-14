@@ -1,9 +1,10 @@
 ---
-title: "Cartographic Uprising: Jerusalem’s Digital Maps Between Facts and Action"
 collection: talks
 type: "Conference presentation"
-permalink: /talks/2016-04-01-AAG-Jerusalems.md
-venue: "AAG Annual Meeting, San Francisco"
+event: "AAG Annual Meeting"
+external_link: "http://www.aag.org/"
+title: "Cartographic Uprising: Jerusalem’s Digital Maps Between Facts and Action"
+speakers: "Carraro, V., Wissink, B."
 date: 2016-04-01
 location: "San Francisco, California"
 ---

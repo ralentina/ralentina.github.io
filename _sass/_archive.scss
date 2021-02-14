@@ -5,18 +5,12 @@
 /* custom classes */
 
 .publication__venue {
-	font-weight: bold;
 	font-style: italic;
 	}
-	
-.publication__citation {
-	font-style: italic;
-	color: $info-color;
-	}
-	
-.publication__download {
-	font-weight: bold;
-	}
+
+.archive__item {
+  margin-top: 1em;
+}
 	
 /* end of custom classes */
 
@@ -34,7 +28,7 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
 
     &:hover {
       text-decoration: underline;
@@ -95,9 +89,6 @@
     box-shadow: 0 0 10px rgba(#000, 0.25);
   }
 
-  .archive__item-title {
-    text-decoration: underline;
-  }
 }
 
 
