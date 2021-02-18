@@ -7,15 +7,13 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-      
-    <span class="archive__item-title" itemprop="description">"{{ title }}". </span>
-    {% if post.external_link %}
-        <a href="{{ post.external_link }}">{{ post.event }} <i class="fa fa-external-link archive__item-excerpt" aria-hidden="true"></i></a>,
-    {% else %}
-        {{ post.event }},
-    {% endif %}
-    <span itemprop="description">{{post.location}}, {{ post.date | date: '%B %Y' }}.</span>
-  
+    <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">  
+        <span class="archive__item-title" itemprop="description">"{{ title }}". </span>
+        {% if post.external_link %}
+            <a href="{{ post.external_link }}">{{ post.event }} <i class="fa fa-external-link archive__item-excerpt" aria-hidden="true"></i></a>,
+        {% else %}
+            {{ post.event }},
+        {% endif %}
+        <span itemprop="description">{{post.location}}, {{ post.date | date: '%B %Y' }}.</span>
     </article>
 </div>
