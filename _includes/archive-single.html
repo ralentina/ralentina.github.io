@@ -7,7 +7,6 @@
   {% assign title = post.title %}
 {% endif %}
 
-
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
   
@@ -16,11 +15,17 @@
       
     <span class="archive__item-title" itemprop="headline">
         {% if post.external_link %}
-            <a href="{{ post.external_link }}">{{ title }}<i class="fa fa-external-link" aria-hidden="true"></i></a>,
+            <a href="{{ post.external_link }}">{{ title }}<i class="fa fa-external-link" aria-hidden="true"></i></a>
+                {% if post.open_access %}
+                   <span class="archive__item-title" itemprop="headline"><i class="fas fa-lock-open"></i></span>,
+                {% else %}
+                    ,
+                {% endif %}
         {% else %}
             {{ title }},
         {% endif %}
     </span>
+
       
     <span class="publication__venue">
         {{post.venue}}.
@@ -29,7 +34,7 @@
     {% if post.details %}
         {{post.details}}.
     {% endif %}	
-      
+
     {% if post.postprint %}
         (<a href="{{ base_path }}{{ post.postprint }}">postprint available</a>).
     {% endif %}	

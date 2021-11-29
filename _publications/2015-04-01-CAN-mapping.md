@@ -3,7 +3,7 @@ collection: publications
 type: other
 title: "Mapping under the Occupation"
 authors: "Carraro, V."
-full_text: "/files/CAN-mapping.pdf"
+full_text: "/files/prints/Carraro-2015_CAN-mapping.pdf"
 date: 2015-04-01
 venue: 'Community Architects Network Newsletter'
 details: 'April Issue'

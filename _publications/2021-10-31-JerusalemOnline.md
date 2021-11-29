@@ -1,13 +1,13 @@
 ---
 collection: publications
 type: peer-reviewed
-title: "Neoliberal urbanism and disaster vulnerability on the Chilean central coast"
-authors: "Carraro, V., Visconti, C., Inzunza, S."
-date: 2021-03-07
-venue: 'Geoforum'
-details: 'Volume 121, May 2021, Pages 83-92'
-external_link: 'https://doi.org/10.1016/j.geoforum.2021.02.023'
-postprint: "/files/Carraro et al-2021_Neoliberalism_vulnerability_in_Chile.pdf"
+title: "Undoing disaster colonialism: a pilot map of the pandemic's first wave in the Mapuche territories of Southern Chile"
+authors: "Carraro, V., Kelly, S., Vargas, J.M., Melillanca, P., Valdés-Negroni, J.M."
+date: 2021-11-17
+venue: 'Disaster Prevention Management'
+details: 'Online First'
+external_link: 'https://doi.org/10.1108/DPM-03-2021-0106'
+postprint: "/files/Carraro et al-2021_Undoing-disaster-colonialism.pdf"
 
 ---
 

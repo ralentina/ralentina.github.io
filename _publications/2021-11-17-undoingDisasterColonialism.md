@@ -1,13 +1,11 @@
 ---
 collection: publications
-type: peer-reviewed
-title: "Neoliberal urbanism and disaster vulnerability on the Chilean central coast"
-authors: "Carraro, V., Visconti, C., Inzunza, S."
-date: 2021-03-07
-venue: 'Geoforum'
-details: 'Volume 121, May 2021, Pages 83-92'
-external_link: 'https://doi.org/10.1016/j.geoforum.2021.02.023'
-postprint: "/files/Carraro et al-2021_Neoliberalism_vulnerability_in_Chile.pdf"
+type: book
+title: "Jerusalem Online: Critical Cartography for the Digital Age"
+authors: "Carraro, V."
+date: 2021-11-17
+venue: 'Palgrave-MacMillan, Singapore.'
+external_link: 'https://link.springer.com/book/10.1007/978-981-16-3314-0'
 
 ---
 
