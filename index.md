@@ -4,7 +4,7 @@ excerpt: "Homepage"
 author_profile: true
 ---
 
-I'm an Assistant Professor at the [Department of Human Geography, Planning and International Development](https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-social-and-behavioural-sciences/disciplines/human-geography-planning-and-international-development/human-geography-planning-and-international-development.html) of the University of Amsterdam. I'm part of the Political and Economic Geographies programme group of the Amsterdam Institute for Social Science Research (AISSR). Broadly, I work at the intersection of digital, political and urban geography. My research interests revolve around three main themes:
+I'm an Assistant Professor at the [Department of Human Geography, Planning and International Development](https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-social-and-behavioural-sciences/disciplines/human-geography-planning-and-international-development/human-geography-planning-and-international-development.html) of the University of Amsterdam. I'm part of the Political and Economic Geographies programme group of the Amsterdam Institute for Social Science Research (AISSR). Broadly, I work at the intersection of digital, political and urban geography. My research revolves around three main themes:
 * the way digital technologies intervene on the built environment and socio-political relations
 * mapping, as both an object of research and a method that can facilitate dialogues across disciplines and epistemologies
 * the political ecology of 'slow' disasters and its relation to high-tech, data-driven approaches to sustainability and disaster risk reduction
