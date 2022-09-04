@@ -4,7 +4,7 @@ excerpt: "Homepage"
 author_profile: true
 ---
 
-I'm an Assistant Professor at the [Department of Human Geography, Planning and International Development](https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-social-and-behavioural-sciences/disciplines/human-geography-planning-and-international-development/human-geography-planning-and-international-development.html) of the University of Amsterdam (UvA). I'm part of the Political and Economic Geographies programme group of the Amsterdam Institute for Social Science Research (AISSR). Broadly, I work at the intersection of digital, political and urban geography. My research revolves around three main themes:
+I'm Assistant Professor at the [Department of Human Geography, Planning and International Development](https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-social-and-behavioural-sciences/disciplines/human-geography-planning-and-international-development/human-geography-planning-and-international-development.html) of the University of Amsterdam (UvA), where I am part of the Political and Economic Geographies programme group. Broadly, I work at the intersection of digital, political and environmental geography. My research revolves around three main themes:
 * the way digital technologies intervene on the built environment and socio-political relations
 * mapping, as both an object of research and a method that can facilitate dialogues across disciplines and epistemologies
 * the political ecology of 'slow' disasters and its relation to high-tech, data-driven approaches to sustainability and disaster risk reduction
@@ -23,4 +23,4 @@ I hold a PhD from [City University of Hong Kong](https://www.cityu.edu.hk/), a M
 Alongside my academic work, I collaborate on a project-basis with [Grassroots al-Quds](https://www.grassrootsalquds.net/), an activist collective that supports Palestinians in Jerusalem through research, mapping and community mobilisation.
 
 
-If you have any question, please send me an [email](emailto: vcarraro@posteo.de) or contact me on [Twitter](https://twitter.com/the_vcarraro).
+If you have any question, do not hesitate to send me an [email](emailto: vcarraro@posteo.de) or contact me on [Twitter](https://twitter.com/the_vcarraro).
